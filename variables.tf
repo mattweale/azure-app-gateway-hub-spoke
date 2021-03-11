@@ -45,8 +45,3 @@ variable "source_ip" {
   description = "Source ip address for RDP inbound"
   default     = ""
 }
-variable "kv_uri" {
-  type        = string
-  description = "URI of Key Vault"
-  default     = "https://mrw-keyvault.vault.azure.net/"
-}
