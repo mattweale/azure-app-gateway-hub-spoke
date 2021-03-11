@@ -16,7 +16,7 @@ Azure Virtual Network Security Options [documentation](https://docs.microsoft.co
 
 Once deployed it should look like this:
 
-![image](images/azure-hub-spoke-app-gateway.png)
+![image](images/azure-app-gateway-hub-spoke.png)
 
 # Deployment
 
