@@ -18,6 +18,8 @@ Once deployed it should look like this:
 
 ![image](images/azure-app-gateway-hub-spoke.png)
 
+Note that this stores state locally so a backend block with need to be added if required.
+
 # Deployment
 
 Steps:

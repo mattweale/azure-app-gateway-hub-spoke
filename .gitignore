@@ -36,3 +36,4 @@ override.tf.json
 
 # Include any other files or folders
 draw.io/**
+backend.cfg 
